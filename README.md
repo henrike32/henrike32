@@ -5,7 +5,7 @@
  <br />
 
 
-| ![Henrique Lambertucci's github stats](https://github-readme-stats.vercel.app/api?username=henrike32&show_icons=true&theme=blueberry) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=henrike32&theme=blueberry&border_radius=4.6)](https://henrike32.co) |
+| ![Henrique Lambertucci's github stats](https://github-readme-stats.vercel.app/api?username=henrike32&show_icons=true&theme=blueberry&hide_rank=true) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=henrike32&theme=blueberry&border_radius=4.6)](https://henrike32.co) |
 | --- | --- |
 |[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henrike32&size_weight=0.5&count_weight=0.5&theme=blueberry)](https://github.com/henrike32/)| ![Github Stars](https://github-readme-stats.vercel.app/api?username=henrike32&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=blueberry) |<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
