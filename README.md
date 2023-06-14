@@ -1,5 +1,5 @@
 <p align="center">
- <a href="https://github.com/henrike32"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,%20I'm%20Henrique%20Lambertucci;Full%20Stack%20Web%20Developer;welcome%20to%20%20my%20coding%20space!😊&font=Josefin%20Sans&center=true&width=650&height=90&color=2be26b&vCenter=true&size=45%62"></a> 
+ <a href="https://github.com/henrike32"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,%20I'm%20Henrique%20Lambertucci;Full%20Stack%20Developer;welcome%20to%20%20my%20coding%20space!😊&font=Josefin%20Sans&center=true&width=650&height=90&color=2be26b&vCenter=true&size=45%62"></a> 
 </p>
 <div align="center">
  <br />
