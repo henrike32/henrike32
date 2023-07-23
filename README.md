@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently at an internship at blinkup startup tech!<br><br>I like :<br>Online Games<br>Anime<br>Manga<br>Gym<br>Good food!<br><br>I work mainly with:<br>Javascript<br>Ruby<br>Node.js<br>React<br>Bootstrap
+I'm currently at an internship at blinkup startup tech!<br><br>I like :<br>Online Games<br>Anime<br>Manga<br>Gym<br>Good food!<br>
 
 
 ## 🌐 Socials:
