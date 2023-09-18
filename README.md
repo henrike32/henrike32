@@ -1,5 +1,5 @@
 # 🔥 About Me:
-I'm currently at an internship at blinkup startup tech!<br><br>I like :<br>Online Games<br>Anime<br>Manga<br>Gym<br>Good food<br>New challenges!<br>
+I'm currently working voluntarily as a Mobile App Developer at blinkup startup tech!<br><br>I like :<br>Online Games<br>Anime<br>Manga<br>Gym<br>Good food<br>New challenges!<br>
 
 
 ## 🌐 Socials:
