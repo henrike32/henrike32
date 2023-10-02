@@ -1,5 +1,5 @@
 # 🔥 About Me:
-I'm currently workingat blinkup as a Mobile App Developer !!Great experience!!<br><br>I like :<br>Online Games<br>Anime<br>Manga<br>Gym<br>Good food<br>New challenges!<br>
+I'm currently working at blinkup as a Mobile App Developer(iOS) !!Great experience!!<br><br>I like :<br>Online Games<br>Anime<br>Manga<br>Gym<br>Good food<br>New challenges!<br>
 
 
 ## 🌐 Socials:
