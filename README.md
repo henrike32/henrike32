@@ -1,5 +1,5 @@
 # 🔥 About Me:
-I'm currently working in the startup blinkup as a Mobile App Developer(iOS). <br><br> 
+I'm currently working at a startup named blinkup as a Mobile App Developer(iOS). <br><br> 
 Currently also working on Voyage 46 of Chingu! Developing a Tier 2 App using React!<br><br>I like :<br>Online Games<br>Anime<br>Manga<br>Gym<br>Good food<br>New challenges!<br>
 
 
