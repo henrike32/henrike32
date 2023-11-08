@@ -1,6 +1,6 @@
 # 🔥 About Me:
  
-Currently working on Voyage 46 of Chingu! Developing a Tier 2 App using React!<br><br>I like :<br>Online Games<br>Anime<br>Manga<br>Gym<br>Good food<br>New challenges!<br>
+Currently finishing a project on Voyage 46 of Chingu! Developing a Tier 2 App using React!<br><br>I like :<br>Online Games<br>Anime<br>Manga<br>Gym<br>Good food<br>New challenges!<br>
 
 
 ## 🌐 Socials:
