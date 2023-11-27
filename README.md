@@ -1,6 +1,6 @@
 # 🔥 About Me:
  
-Currently learning how to use Tailwind with Vite and React!!!<br><br>I like :<br>Online Games, Anime/Manga, Gym, Good food, New challenges!<br>
+Learning how to use Tailwind with Vite and React!!!<br><br>I like :<br>Online Games, Anime/Manga, Gym, Good food, New challenges!<br>
 
 
 ## 🌐 Socials:
