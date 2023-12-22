@@ -1,6 +1,6 @@
 # 🔥 About Me:
  
-Currently learning how to use TailwindCSS in React!!!<br><br>I like :<br>Online Games, Anime/Manga, Gym, Good food, New challenges!<br>
+Currently doing the Ultimate React course, good news soon!!!<br><br>I like :<br>Online Games, Anime/Manga, Gym, Good food, New challenges!<br>
 
 
 ## 🌐 Socials:
