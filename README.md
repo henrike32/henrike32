@@ -1,6 +1,6 @@
 # 🔥 About Me:
  
-Currently doing the Ultimate React course, good news soon!!!<br><br>I like :<br>Online Games, Anime/Manga, Gym, Good food, New challenges!<br>
+Currently doing the Ultimate React course!<br><br>I like :<br>Online Games, Anime/Manga, Gym, Good food, New challenges!<br>
 
 
 ## 🌐 Socials:
