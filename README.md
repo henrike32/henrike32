@@ -6,6 +6,8 @@ Bestseller
 Rating: 4.8 out of 5 (8,272 ratings) 65,854 students
 Created by Jonas Schmedtmann!<br>
 
+https://www.udemy.com/course/the-ultimate-react-course/?kw=ultimate+react+2024&src=sac
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/serhenri) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hslambert/) 
 
