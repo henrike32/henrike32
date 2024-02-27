@@ -1,6 +1,9 @@
 # 🔥 About Me:
- 
-Currently completing The Ultimate React Course 2024: React, Redux & More
+ Conquering the Google Certification to become a Data Analyst through Coursera 2/8 , 6 to go! 
+
+https://www.coursera.org/programs/hiring-our-heroes-x81ez/professional-certificates/google-data-analytics?collectionId=0CLSS
+
+Completing The Ultimate React Course 2024: React, Redux & More
 Master modern React from beginner to advanced! Context API, React Query, Redux Toolkit, Tailwind, advanced patterns
 Bestseller
 Rating: 4.8 out of 5 (8,272 ratings) 65,854 students
@@ -8,9 +11,7 @@ Created by Jonas Schmedtmann!<br>
 
 https://www.udemy.com/course/the-ultimate-react-course/?kw=ultimate+react+2024&src=sac
 
-Conquering the Google Certification to become a Data Analyst through Coursera 2/8 , 6 to go! 
 
-https://www.coursera.org/programs/hiring-our-heroes-x81ez/professional-certificates/google-data-analytics?collectionId=0CLSS
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/serhenri) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hslambert/) 
