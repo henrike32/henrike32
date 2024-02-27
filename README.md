@@ -8,7 +8,7 @@ Created by Jonas Schmedtmann!<br>
 
 https://www.udemy.com/course/the-ultimate-react-course/?kw=ultimate+react+2024&src=sac
 
-Doing the Google Certification to become a Data Analyst through Coursera 2/8 , 6 to go! 
+Conquering the Google Certification to become a Data Analyst through Coursera 2/8 , 6 to go! 
 
 https://www.coursera.org/programs/hiring-our-heroes-x81ez/professional-certificates/google-data-analytics?collectionId=0CLSS
 
