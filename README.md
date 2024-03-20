@@ -1,5 +1,5 @@
 # 🔥 About Me:
- Conquering the Google Certification to become a Data Analyst through Coursera 2/8 , 6 to go! 
+ Conquering the Google Certification to become a Data Analyst through Coursera 3/8 , 5 to go! 
 
 https://www.coursera.org/programs/hiring-our-heroes-x81ez/professional-certificates/google-data-analytics?collectionId=0CLSS
 
