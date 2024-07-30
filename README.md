@@ -1,5 +1,5 @@
 # 🔥 About Me:
- Update 3 June 2024 : Conquering a Data Analyst Google Certification through Coursera 7/8 , 2 to go! 
+ Update 30 July 2024 : Conquering a Data Analyst Google Certification through Coursera 8(M1 of M5)/8 , almost there!!!! 
 
 https://www.coursera.org/programs/hiring-our-heroes-x81ez/professional-certificates/google-data-analytics?collectionId=0CLSS
 
